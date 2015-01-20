@@ -1,0 +1,14 @@
+01-19 16:49:33.606      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnCreate event fired
+01-19 16:49:33.606      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnStart event fired
+01-19 16:49:33.618      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnResume event fired
+01-19 16:52:14.827      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnPause event fired
+01-19 16:52:15.846      533-533/edu.washington.yslasm.activityspy E/MainActivity﹕ We're going down Captain!
+01-19 16:52:23.207      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnRestart event fired
+01-19 16:52:23.207      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnStart event fired
+01-19 16:52:23.207      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnResume event fired
+01-19 16:52:27.407      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnPause event fired
+01-19 16:52:29.996      533-533/edu.washington.yslasm.activityspy E/MainActivity﹕ We're going down Captain!
+01-19 16:52:29.996      533-533/edu.washington.yslasm.activityspy E/MainActivity﹕ We're going down Captain!
+01-19 16:52:34.676      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnCreate event fired
+01-19 16:52:34.676      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnStart event fired
+01-19 16:52:34.716      533-533/edu.washington.yslasm.activityspy I/MainActivity﹕ OnResume event fired
